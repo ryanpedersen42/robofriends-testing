@@ -40,7 +40,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ## Usage
 
 Using RoboFriends
-![Using RoboFriends](share.getcloudapp.com/X6uW6Re4)
+![Using RoboFriends](/Images/RoboFriendsMain.gif)
 
 Using with Redux Logger
-![RoboFriends with Redux Logger](share.getcloudapp.com/GGuZjKQL)
+![RoboFriends with Redux Logger](/Images/RoboFriends_Redux_Logger.gif)
