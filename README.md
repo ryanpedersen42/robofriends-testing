@@ -2,7 +2,7 @@
 
 RoboFriends is a Progressive Web App directory that lets you search through a group of your "friends" to find their info. It picks up names and emails from JSONPlaceholder.
 
-It's made with React and Redux, and is using Enzyme for testing (all testing files included in this repository).
+It's a single page app made with ```bash create-react-app```, and uses Redux for state management and Enzyme for testing (all testing files included in this repository).
 
 More specifically, the tech is React, Redux, Redux-Logger, 
 
