@@ -1,6 +1,6 @@
 # About the Project
 
-Robofriends is a Progressive Web App directory that lets you search through a group of your "friends" to find their info. It picks up names and emails from JSONPlaceholder.
+RoboFriends is a Progressive Web App directory that lets you search through a group of your "friends" to find their info. It picks up names and emails from JSONPlaceholder.
 
 It's made with React and Redux, and is using Enzyme for testing (all testing files included in this repository).
 
