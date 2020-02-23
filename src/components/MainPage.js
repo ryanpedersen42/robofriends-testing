@@ -13,9 +13,9 @@ export class MainPage extends Component {
 
   filterRobots = () => {
     const { robots, searchField } = this.props;
-    return robots.filter(robot => {
-      return robot.name.toLowerCase().includes(searchField.toLowerCase());
-    })
+            return robots.filter(robot => {
+              return robot.name.toLowerCase().includes(searchField.toLowerCase());
+            })
   }
 
   render() {
@@ -24,7 +24,7 @@ export class MainPage extends Component {
     return (
       <div className='tc'>
         <Header />
-        <SearchBox searchChange={onSearchChange}/>
+                <SearchBox searchChange={onSearchChange}/>
         <Scroll>
           { isPending ? <h1>Loading</h1> :
             <ErrorBoundary>
