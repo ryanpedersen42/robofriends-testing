@@ -1,9 +1,9 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import CardList from './CardList';
-const filteredRobots2 = [{
+const filteredRobots = [{
     id: 1,
-    name: 'Leanne Graham',
+    name: 'Leanne Graham222',
     username: 'Bret',
     email: 'Sincere@april.biz'
   }]
