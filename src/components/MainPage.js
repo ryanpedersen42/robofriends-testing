@@ -28,7 +28,7 @@ export class MainPage extends Component {
         <Scroll>
           { isPending ? <h1>Loading</h1> :
             <ErrorBoundary>
-              <CardList robots={this.filterRobots()} />
+                <CardList robots={this.filterRobots()} />
             </ErrorBoundary>
           }
         </Scroll>

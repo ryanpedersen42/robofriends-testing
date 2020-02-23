@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import CardList from './CardList';
-const filteredRobots = [{
+const    filteredRobots = [{
     id: 1,
     name: 'Leanne Graham',
     username: 'Bret',
