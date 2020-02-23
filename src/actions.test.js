@@ -10,7 +10,7 @@ describe('actions', () => {
     const text = 'Finish docs'
     const expectedAction = {
       type: types.CHANGE_SEARCHFIELD,
-      payload: text2
+      payload: text
     }
     expect(actions.setSearchField(text)).toEqual(expectedAction)
   })
